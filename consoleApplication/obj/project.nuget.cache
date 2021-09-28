@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmDJYAnqCQEA+HAxQ09sH76Jet/SZF9VvvXzmgucRQ2mO1Eg3xK5/mvmPmEFLkTVm/44ayX4pVPVEOGRKkGRww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joker\\OneDrive\\Desktop\\consoleApplication\\consoleApplication\\consoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joker\\.nuget\\packages\\litedb\\5.0.10\\litedb.5.0.10.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\mqttnet.extensions.managedclient\\3.0.15\\mqttnet.extensions.managedclient.3.0.15.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\system.text.json\\6.0.0-preview.1.21102.12\\system.text.json.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": []
+}
